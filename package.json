@@ -1,0 +1,14 @@
+{
+  "name": "online-chess",
+  "version": "1.0.0",
+  "description": "Chess against the computer or a real player, joined with a 4-digit code",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node scripts/test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
